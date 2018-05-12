@@ -1,4 +1,8 @@
 _repo: Unspoken-Sermons-Series-I-II-and-III_9057
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: MacDonald, George
@@ -14,6 +18,8 @@ description: MacDonald rejected the doctrine of penal Substitutionary atonement 
   had come to save people from their sins, and not from a Divine penalty for their
   sins. The problem was not the need to appease a wrathful God but the disease of
   cosmic evil itself.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9057#Unspoken-Sermons-Series-I-II-and-III
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
